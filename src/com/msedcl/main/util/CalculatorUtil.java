@@ -2,6 +2,7 @@ package com.msedcl.main.util;
 
 public class CalculatorUtil {
 	public int addition(int number1, int number2) {
+		System.out.println("Addition of two integers Numbers ");
 		return number1 + number2;
 	}
 
