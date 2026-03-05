@@ -8,7 +8,7 @@ public class CalculatorMain {
 		// TODO Auto-generated method stub
 		CalculatorUtil calculatorUtil = new CalculatorUtil();
 		System.out.println("Addition ="+calculatorUtil.addition(10,20));
-
+       System.out.println("subtraction="+calculatorUtil.subtraction(20,30));
 	}
 
 }
